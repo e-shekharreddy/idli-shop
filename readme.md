@@ -8,3 +8,4 @@
 
 ## Ragi Idli
 * ragi idli batter
+* 15mins steming
