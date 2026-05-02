@@ -9,3 +9,12 @@
 ## Ragi Idli
 * ragi idli batter
 * 15mins steming
+
+## Panner dosa
+* dosa batter
+* panner 
+* potato 
+* beetroot
+* ghee 
+
+
